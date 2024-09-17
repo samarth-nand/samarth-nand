@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on a scheduling application<br>I am a sophmore at the university of Minnesota<br>Currently learning AI/ML tools<br>Fun fact: I am ambidextrous
+I'm currently working on a scheduling application<br>I am a junior at the University of Minnesota<br>Currently learning AI/ML tools through anaconda and python. Also working on 
+a scaleable project in scheduling.<br>Fun fact: I am ambidextrous
 
 
 ## 🌐 Socials:
