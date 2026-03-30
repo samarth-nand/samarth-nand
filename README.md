@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a **Co-founder & CTO** at [Artifact](https://github.com/samarth-nand) — an AI-powered hiring engine that compresses role setup from hours to under 5 minutes. Junior at the **University of Minnesota** (CS, 3.8 GPA, Dean’s List, Optum Scholar).
+I’m a **Co-founder & CTO** at [Artifact](https://www.joinartifact.now) — an AI-powered hiring engine that compresses role setup from hours to under 5 minutes. Senior at the **University of Minnesota** (CS, 3.8 GPA, Dean’s List, Optum Scholar).
 
 I build full-stack products end-to-end: AI screening layers, async interview pipelines, candidate ranking systems, and the infrastructure to support them at scale.
 
